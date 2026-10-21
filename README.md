@@ -1,200 +1,25 @@
-# Hi, I'm wlame 👋
+<div align="center">
 
-I'm a developer focused on building practical tools, automation scripts and performance-oriented utilities for Windows and gaming environments.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m wlame-dx"></picture>
 
-I enjoy turning ideas into clean, functional and easy-to-use projects with a focus on reliability, simplicity and real-world usability.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="25.186%" alt=""></picture><a href="https://t.me/@itsswlame"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://github.com/wlame-dx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.014%" alt="github"></picture></a><a href="https://tiktok.com/@wlamefleet"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="15.488%" alt="tiktok"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="25.186%" alt=""></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-## 🚀 About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-* 🧑‍💻 Developer focused on Windows tools and PowerShell automation
-* 🎮 Interested in gaming performance, system optimization and launcher utilities
-* ⚙️ Building lightweight command-line tools for Windows
-* 🛠️ Experienced with PowerShell scripting and Windows Registry management
-* 🌑 Interested in modern, minimal and dark-themed interfaces
-* 📚 Constantly learning, improving and experimenting with new technologies
-* 🇹🇷 Based in Türkiye
+<a href="https://github.com/wlame-dx/wlame-package-manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wlame-package-manager-dark.svg"><img src="assets/project-wlame-package-manager-light.svg" width="49%" alt="wlame-package-manager"></picture></a>&nbsp;<a href="https://github.com/wlame-dx/umbra"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-umbra-dark.svg"><img src="assets/project-umbra-light.svg" width="49%" alt="umbra"></picture></a>
 
----
+<a href="https://github.com/wlame-dx/web"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-web-dark.svg"><img src="assets/project-web-light.svg" width="49%" alt="web"></picture></a>&nbsp;<a href="https://github.com/wlame-dx/wlame-dx.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wlame-dx-github-io-dark.svg"><img src="assets/project-wlame-dx-github-io-light.svg" width="49%" alt="wlame-dx.github.io"></picture></a>
 
-## 🔧 What I Work On
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-My projects generally focus on:
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-| Area | Description |
-|---|---|
-| Windows Automation | Automating repetitive system and maintenance tasks |
-| Gaming Utilities | Tools for launching and optimizing games |
-| PowerShell Scripts | Lightweight and practical command-line utilities |
-| System Optimization | Safe configuration and performance-focused tweaks |
-| Registry Management | Backing up, applying and restoring Windows settings |
-| Developer Tools | Small tools that simplify daily workflows |
-| Documentation | Clean project pages and user-friendly documentation |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
----
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/wlame-dx?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-## ⭐ Featured Project
+<a href="https://metawka.github.io/expressive-profile/?from=wlame-dx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-### Game Optimizer
-
-A PowerShell-based Windows gaming utility designed to launch games while applying temporary system optimizations.
-
-#### Main goals
-
-* Improve the game launching workflow
-* Apply performance-related settings safely
-* Manage process priority
-* Temporarily switch power plans
-* Disable unnecessary gaming-related background features
-* Restore previous system settings after the game exits
-* Support games launched through platforms such as Steam
-* Keep everything lightweight and CLI-based
-
-[![View Project](https://img.shields.io/badge/View%20Project-game--optimizer-181717?style=for-the-badge&logo=github)](https://github.com/wlame-dx/game-optimizer)
-
----
-
-## 💻 Technologies & Tools
-
-### Languages and Scripting
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Platforms and Tools
-
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=wlame-dx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub statistics" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlame-dx&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Most used languages" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wlame-dx&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-Currently, I'm focusing on:
-
-* Improving Windows gaming utility projects
-* Writing safer and more reliable PowerShell scripts
-* Creating clean command-line experiences
-* Improving project documentation
-* Building modern GitHub Pages websites
-* Making system changes reversible and user-friendly
-* Reducing unnecessary complexity in projects
-
----
-
-## 🧠 Development Philosophy
-
-> Simple tools are easier to understand, maintain and trust.
-
-I prefer projects that are:
-
-* Lightweight
-* Practical
-* Easy to configure
-* Safe to use
-* Well documented
-* Easy to maintain
-* Focused on solving real problems
-
-When a project changes system settings, I believe backup and restoration should be treated as essential features rather than optional extras.
-
----
-
-## 🛡️ My Approach to System Tools
-
-When developing Windows utilities, I try to follow these principles:
-
-* Always explain what a setting does
-* Avoid unnecessary system modifications
-* Create backups before changing important settings
-* Restore the original state whenever possible
-* Handle missing permissions gracefully
-* Support both normal and administrator workflows
-* Keep logs and error messages understandable
-* Avoid promising unrealistic performance improvements
-
----
-
-## 📌 Projects
-
-You can explore my projects below:
-
-* [Game Optimizer](https://github.com/wlame-dx/game-optimizer)  
-    PowerShell-based Windows gaming launcher and optimization utility.
-
-* [All Repositories](https://github.com/wlame-dx?tab=repositories)  
-    Browse all of my public projects on GitHub.
-
----
-
-## 📈 Goals
-
-My long-term goals include:
-
-* Building useful open-source Windows tools
-* Creating more reliable automation workflows
-* Improving software architecture skills
-* Learning new programming languages and frameworks
-* Publishing better documentation
-* Helping developers and gamers through practical projects
-* Building projects that are simple enough for everyone to use
-
----
-
-## 🤝 Contributions
-
-Suggestions, bug reports and improvements are always welcome.
-
-If you find an issue in one of my projects:
-
-1. Open an issue on the relevant repository.
-2. Clearly describe the problem.
-3. Include reproduction steps if possible.
-4. Add relevant screenshots or error messages.
-5. Suggest a possible solution if you have one.
-
-Pull requests are welcome for improvements that follow the existing project structure and coding style.
-
----
-
-## 📫 Contact
-
-You can reach me through GitHub:
-
-[![GitHub](https://img.shields.io/badge/GitHub-wlame--dx-181717?style=for-the-badge&logo=github)](https://github.com/wlame-dx)
-
-For project-related questions, please open an issue in the relevant repository.
-
----
-
-## ⭐ Support My Work
-
-If you find one of my projects useful:
-
-* Give the repository a star
-* Report bugs
-* Share feedback
-* Suggest new features
-* Contribute improvements
-
-Thanks for visiting my profile! 🚀
+</div>
