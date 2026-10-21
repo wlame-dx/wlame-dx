@@ -8,9 +8,11 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/wlame-dx/wlame-package-manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wlame-package-manager-dark.svg"><img src="assets/project-wlame-package-manager-light.svg" width="49%" alt="wlame-package-manager"></picture></a>&nbsp;<a href="https://github.com/wlame-dx/umbra"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-umbra-dark.svg"><img src="assets/project-umbra-light.svg" width="49%" alt="umbra"></picture></a>
+<a href="https://github.com/wlame-dx/game-optimizer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-game-optimizer-dark.svg"><img src="assets/project-game-optimizer-light.svg" width="49%" alt="game-optimizer"></picture></a>&nbsp;<a href="https://github.com/wlame-dx/sqlite-todoapp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sqlite-todoapp-dark.svg"><img src="assets/project-sqlite-todoapp-light.svg" width="49%" alt="sqlite-todoapp"></picture></a>
 
-<a href="https://github.com/wlame-dx/web"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-web-dark.svg"><img src="assets/project-web-light.svg" width="49%" alt="web"></picture></a>&nbsp;<a href="https://github.com/wlame-dx/wlame-dx.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wlame-dx-github-io-dark.svg"><img src="assets/project-wlame-dx-github-io-light.svg" width="49%" alt="wlame-dx.github.io"></picture></a>
+<a href="https://github.com/wlame-dx/umbra"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-umbra-dark.svg"><img src="assets/project-umbra-light.svg" width="49%" alt="umbra"></picture></a>&nbsp;<a href="https://github.com/wlame-dx/web"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-web-dark.svg"><img src="assets/project-web-light.svg" width="49%" alt="web"></picture></a>
+
+<a href="https://github.com/wlame-dx/winoptimizer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-winoptimizer-dark.svg"><img src="assets/project-winoptimizer-light.svg" width="49%" alt="winoptimizer"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
