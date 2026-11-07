@@ -1,9 +1,9 @@
 {
- "key": "7e319336",
+ "key": "cdf79034",
  "stars": 0,
  "contributions": 66,
  "repos": 10,
- "followers": 1,
+ "followers": 2,
  "languages": [
   [
    "JavaScript",
@@ -134,9 +134,13 @@
    {
     "c": 1,
     "day": 6,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 7,
+    "today": true
+   }
   ]
  ],
  "streak": {
